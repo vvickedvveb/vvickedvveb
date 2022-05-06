@@ -2,21 +2,21 @@
 
 - 👀 I’m interested in... 
   - 🐍 Python3
-    - Django / REST
-    - Web Scraping
+    - Django / REST API's
+    - 🍴 Web Scraping
     - 🔬 Python Data Science Tools 
-      - pandas
-      - NumPy
-      - matplotlib
-      - seaborn
-      - sci-kit learn
-  - **Web Development**
-    - React
+      - 🐼 pandas
+      - ➕ NumPy
+      - 📊 matplotlib
+      - 💹 seaborn
+      - 🤖 sci-kit learn
+  - 🕸️ **Web Development**
+    - ⚛️ React
     - HTML
     - jQuery
     - CSS/Sass
 - 🌱 I’m currently strengthening my Python &amp; web skills.
-- 💞️ I’m looking to collaborate on Django/REST
+- 💞️ I’m looking for a job &amp; collaborations on Django/REST/Web/Analyst
 - 📫 You may contact me here: https://vickrumahuja.com/#edu
 
 <!---
