@@ -1,9 +1,20 @@
-- 👋 Hi, I’m Vick
+👋 Hi, I’m Vick. I'm based 📍 in Montreal, Canada.
+
 - 👀 I’m interested in... 
-  - Python3
-  - Python Data Science Tools (pandas, NumPy, matplotlib, seaborn, sci-kit learn) 
-  - Django
-  - Web Development with React, HTML, jQuery, and CSS/Sass.
+  - 🐍 Python3
+    - Django / REST
+    - Web Scraping
+    - 🔬 Python Data Science Tools 
+      - pandas
+      - NumPy
+      - matplotlib
+      - seaborn
+      - sci-kit learn
+  - **Web Development**
+    - React
+    - HTML
+    - jQuery
+    - CSS/Sass
 - 🌱 I’m currently strengthening my Python &amp; web skills.
 - 💞️ I’m looking to collaborate on Django/REST
 - 📫 You may contact me here: https://vickrumahuja.com/#edu
