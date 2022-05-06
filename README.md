@@ -1,7 +1,7 @@
 👋 Hi, I’m Vick. I'm based 📍 in Montreal, Canada.
 
 - 👀 I’m interested in... 
-  - 🐍 Python3
+  - 🐍 **Python3**
     - Django / REST API's
     - 🍴 Web Scraping
     - 🔬 Python Data Science Tools 
@@ -16,7 +16,7 @@
     - jQuery
     - CSS/Sass
 - 🌱 I’m currently strengthening my Python &amp; web skills.
-- 💞️ I’m looking for a job &amp; collaborations on Django/REST/Web/Analyst
+- 💞️ I’m looking for a job &amp; collaborations in Django/REST/Web/Analyst
 - 📫 You may contact me here: https://vickrumahuja.com/#edu
 
 <!---
