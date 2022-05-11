@@ -19,6 +19,10 @@
 - 💞️ I’m looking for a job &amp; collaborations in Django/REST/Web/Analyst
 - 📫 You may contact me here: https://vickrumahuja.com/#edu
 
+```python
+import this
+```
+
 <!---
 vvickedvveb/vvickedvveb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
