@@ -1,4 +1,4 @@
-👋 Hi, I’m Vick. I'm based 📍 in Montreal, Canada.
+👋 Hi, I’m Vick. I'm 📍 in Montreal, Canada.
 
 - 👀 I’m interested in... 
   - 🐍 **Python3**
