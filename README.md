@@ -15,9 +15,6 @@
     - HTML
     - jQuery
     - CSS/Sass
-- 🌱 I’m currently strengthening my Python &amp; web skills.
-- 💞️ I’m looking for a job &amp; collaborations in Django/REST/Web/Analyst
-- 📫 You may contact me here: https://vickrumahuja.com/#edu
 
 ```python
 import this
