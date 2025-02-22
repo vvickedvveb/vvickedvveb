@@ -4,7 +4,7 @@
   - PHP: WordPress, Laravel
   - HTML, jQuery, CSS: Sass, Tailwind, Bootstrap
 - 🐍 **Python**
-  - Django / REST / Flask, Web Scraping
+  - Django / REST / Flask, BeautifulSoup, PDF
   - 🔬 Data Science: 🐼 pandas, ➕ NumPy, 📊 matplotlib, 💹 seaborn, 🤖 sci-kit learn 
 - 🌵**Git / GitHub**: Learning Actions
 - 🛢️**Databases**
