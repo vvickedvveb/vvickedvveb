@@ -1,11 +1,11 @@
 👋 I’m Vick in Montreal.
-- 🐍 **Python**
-  - Django / REST / Flask, Web Scraping
-  - 🔬 Data Science: 🐼 pandas, ➕ NumPy, 📊 matplotlib, 💹 seaborn, 🤖 sci-kit learn 
 - 🕸️ **Web Development**
   - ⚛️ React.JS, TypeScript (learning), Node / Express.JS
   - PHP: WordPress, Laravel
   - HTML, jQuery, CSS: Sass, Tailwind, Bootstrap
+- 🐍 **Python**
+  - Django / REST / Flask, Web Scraping
+  - 🔬 Data Science: 🐼 pandas, ➕ NumPy, 📊 matplotlib, 💹 seaborn, 🤖 sci-kit learn 
 - 🌵**Git / GitHub**: Learning Actions
 - 🛢️**Databases**
     - SQL, MariaDB / MySQL, PostgreSQL, CrateDB, MongoDB (some), GraphQL (some)   
