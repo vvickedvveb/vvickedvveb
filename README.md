@@ -6,7 +6,7 @@
   - ⚛️ React.JS, TypeScript (learning), Node / Express.JS
   - PHP: WordPress, Laravel
   - HTML, jQuery, CSS: Sass, Tailwind, Bootstrap
-- ***Git / GitHub***  
+- 🌵**Git / GitHub**: Learning Actions
 - 🛢️**Databases**
     - SQL, MariaDB / MySQL, PostgreSQL, CrateDB, MongoDB (some), GraphQL (some)   
 - 🐧**Linux**
