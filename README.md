@@ -1,7 +1,5 @@
-👋 Hi, I’m Vick. I'm 📍 in Montreal, Canada.
-
-- 👀 I’m interested in... 
-  - 🐍 **Python3**
+👋 Hi, I’m Vick. I'm 📍 in Montreal, Canada. 
+  - 🐍 **Python**
     - Django / REST API's
     - 🍴 Web Scraping
     - 🔬 Python Data Science Tools 
@@ -15,12 +13,6 @@
     - HTML
     - jQuery
     - CSS/Sass
-
-```python
-import this
-```
-
-[Gists](https://gist.github.com/vvickedvveb)
 
 <!---
 vvickedvveb/vvickedvveb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
